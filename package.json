@@ -1,0 +1,24 @@
+{
+    "requires": true,
+    "lockfileVersion": 1,
+    "name": "lodash",
+    "version": "4.17.4",
+    "license": "MIT",
+    "private": true,
+    "main": "lodash.js",
+    "engines": {
+        "node": ">=4.0.0"
+    },
+    "bootstrap": {
+        "version": "3.3.7",
+        "resolved": "https://registry.npmjs.org/bootstrap/-/bootstrap-3.3.7.tgz",
+        "integrity": "sha1-WjiTlFSfIzMIdaOxUGVldPip63E="
+    },
+    "dependencies": {
+        "bootstrap": "^3.3.7",
+        "eslint": "^3.15.0",
+        "jquery": "^3.1.1",
+        "lodash": "4.17.3",
+        "webpack": "^1.14.0"
+    }
+}
